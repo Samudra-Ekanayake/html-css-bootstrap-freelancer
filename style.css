@@ -1,3 +1,9 @@
 .smr_color {
     background-color: grey;
 }
+
+.smr_square {
+    height: 5rem;
+    width: 5rem;
+}
+
